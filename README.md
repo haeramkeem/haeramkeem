@@ -1,6 +1,6 @@
 Hi! 🙋‍♂️ I'm remote-working software developer in korea.
 
-I'm interested in these activities :
+What i'm interested in : 
 1. frontend-backend developing😎
 2. surfing🏄‍♂️
 3. workout freak🏋️‍♀️
