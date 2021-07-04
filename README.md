@@ -1,2 +1,2 @@
-It's not tragic
-to die what you love
+1. It's not tragic
+2. to die what you love
