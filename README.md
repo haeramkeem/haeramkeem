@@ -1,3 +1,4 @@
-1. It's not tragic
-2. To die doing what you love
-3. https://haeramkeem.github.io/home/
+1. If you want the ultimate,
+2. you’ve got to be willing to pay the ultimate price.
+3. It’s not tragic to die doing what you love.
+4. https://haeramkeem.github.io/home/
