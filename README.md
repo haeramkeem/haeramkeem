@@ -1,6 +1,5 @@
-1. I TELL YOU WHAT
-2. I REALLY DONT
-3. THINK YOU CAN FIND
-4. A PLACE LIKE
-5. CANGGU
-6. https://saltwalks.github.io/home/
+1. I REALLY
+2. WANNA TRY
+3. FISHBEARD
+4. AND CHIPS
+5. https://saltwalks.github.io/home/
