@@ -1,4 +1,6 @@
-1. If you want the ultimate
-2. you’ve got to be willing to pay the ultimate price
-3. It’s not tragic to die doing what you love
-4. https://saltwalks.github.io/home/
+1. I TELL YOU WHAT
+2. I REALLY DONT
+3. THINK YOU CAN FIND
+4. PLACE LIKE
+5. CANGGU
+6. https://saltwalks.github.io/home/
