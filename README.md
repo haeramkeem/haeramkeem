@@ -1,6 +1,6 @@
 1. I'LL TELL YA WHAT
 2. LIFE AIN'T LIKE
-3. SOFT TOP 9'1"
+3. SOFT TOP 9'1
 4. RATHER IT'S LIKE
-5. CI FISHBEARD 5'4"
+5. CI FISHBEARD 5'4
 6. https://saltwalks.github.io/
