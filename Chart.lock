@@ -1,0 +1,6 @@
+dependencies:
+- name: personal
+  repository: ""
+  version: 0.1.0
+digest: sha256:653a5329d8d31adb12ac2aaee035690176ac999f7fe3382413eabe175fe50575
+generated: "2022-12-25T16:07:10.80613+09:00"

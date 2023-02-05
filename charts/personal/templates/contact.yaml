@@ -1,0 +1,13 @@
+apiVersion: saltwalks.github.io/personal
+kind: Contact
+metadata:
+  name: {{ include "personal.fullname" . }}
+spec:
+  email: {{ .Values.contact.email }}
+  mobile: {{ .Values.contact.mobile }}
+  {{- if .Values.contact.github }}
+  github: {{ .Values.contact.github }}
+  {{- end }}
+  {{- if .Values.contact.linkedIn}}
+  linkedIn: {{ .Values.contact.linkedIn }}
+  {{- end }}

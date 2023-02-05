@@ -1,0 +1,15 @@
+info:
+  birth:
+    date: 'MMM DD, YYYY'
+    nationality: 'exmample'
+  language:
+    first: 'example'
+    additional: []
+
+contact:
+  email: 'example@example.com'
+  mobile: '+1-0000-0000'
+  # github: 'https://github.com/...'
+  # linkedIn: 'https://www.linkedin.com/...'
+
+interests: []

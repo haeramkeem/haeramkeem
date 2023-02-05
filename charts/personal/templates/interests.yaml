@@ -1,0 +1,9 @@
+apiVersion: saltwalks.github.io/personal
+kind: Interests
+metadata:
+  name: {{ include "personal.fullname" . }}
+spec:
+  data:
+    {{- with .Values.interests }}
+    {{- toYaml . | nindent 4 }}
+    {{- end }}
